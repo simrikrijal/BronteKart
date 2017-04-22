@@ -44,9 +44,9 @@
 										<div class="main-text hidden-xs">
 											<div class="col-md-12 text-center">
 												<h1>
-													Static Headline And Content</h1>
+													Welcome to Bronte Kart.</h1>
 													<h3>
-														Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+														Where your shopping for Bronte begins.
 													</h3>
 													<div class="">
 														<a class="btn btn-clear btn-sm btn-min-block" href="http://www.jquery2dotnet.com/">Login</a><a class="btn btn-clear btn-sm btn-min-block"
@@ -56,11 +56,4 @@
 											</div>
 										</div>
 									</div>
-
-
-
-
-
-
-
 									<div class="container">
