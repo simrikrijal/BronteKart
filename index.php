@@ -5,6 +5,8 @@ include 'includes/navigation.php';
 include 'includes/carousel.php'; 
 ?>
 
+
+
 <h2 class="text-center">Featured Products</h2>
 <div class="col-md-4 text-center">
 	<img src="https://placehold.it/350" alt="featured-product-1" class="img-responsive">
